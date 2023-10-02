@@ -55,7 +55,7 @@ time.sleep(3)
 
     # Apenas para testar o Pandas
 tabela = pd.read_csv(r'C:/Users/rodri/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Python 3.11/Python/Python PowerUp/Automacao de Tarefas com Python/produtos.csv')
-print(tabela)
+#print(tabela)
 
 for linha in tabela.index:
 
